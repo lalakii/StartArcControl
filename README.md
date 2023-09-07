@@ -8,4 +8,4 @@ POWERSHELL -WindowStyle Hidden -Command "& Get-Process -Name "ArcControlService"
 
 Save this code to [Your Filename].bat or [download this script](https://raw.githubusercontent.com/iamverycute/StartArcControl/master/StartIntelArcV3.bat), run as Adminstrator.
 
-If this script doesn't work on your computer, try [StartArcControl.exe](https://github.com/iamverycute/StartArcControl/releases)
+If this script doesn't work on your computer, try [StartArcControl.exe](https://github.com/lalakii/StartArcControl/releases)
